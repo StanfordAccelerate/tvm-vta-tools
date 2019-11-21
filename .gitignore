@@ -1,9 +1,10 @@
-# TVM docker workspace remainnings
+# TVM/VTA (docker) workspace remainnings
 .bash_history
 .sudo_as_admin_successful
 .pkl_memoize_py3
 .tvm
 .tvm_test_data
+.vta_cache
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -9,3 +9,5 @@ https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-10-cosmi
 ## Connect to board
 
 ssh xilinx@192.168.2.99
+
+password: xilinx
