@@ -1,4 +1,5 @@
-# TVM workspace remainning
+# TVM workspace remainnings
+.bash_history
 .pkl_memoize_py3
 .tvm
 .tvm_test_data
