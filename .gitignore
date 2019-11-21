@@ -1,3 +1,8 @@
+# TVM workspace remainning
+.pkl_memoize_py3
+.tvm
+.tvm_test_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
