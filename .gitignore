@@ -1,5 +1,6 @@
-# TVM workspace remainnings
+# TVM docker workspace remainnings
 .bash_history
+.sudo_as_admin_successful
 .pkl_memoize_py3
 .tvm
 .tvm_test_data
