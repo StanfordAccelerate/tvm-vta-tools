@@ -5,4 +5,5 @@ then
     exit 1
 fi
 
-python3 ${TVM_ROOT}/vta/tests/python/integration/test_benchmark_topi_conv2d.py
+cd ${TVM_ROOT}
+cp vta/config/pynq_sample.json vta/config/vta_config.json
