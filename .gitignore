@@ -5,6 +5,8 @@
 .tvm
 .tvm_test_data
 .vta_cache
+.config
+.mxnet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
